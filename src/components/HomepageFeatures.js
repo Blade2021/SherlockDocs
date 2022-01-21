@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('../../static/img/easytoUse.png').default,
+    Png: require('../../static/img/easytoUse.png').default,
     description: (
       <>
         Sherlock is only a matter of minutes from protecting your server from spam and other attacks.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Focus on What Matters',
-    Svg: require('../../static/img/detective.png').default,
+    Png: require('../../static/img/detective.png').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go

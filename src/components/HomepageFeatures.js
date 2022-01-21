@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Png: require('../../static/img/easytoUse.png').default,
+    Png: require('../../static/img/easytouse.png').default,
     description: (
       <>
         Sherlock is only a matter of minutes from protecting your server from spam and other attacks.
